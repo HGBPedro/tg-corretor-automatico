@@ -1,0 +1,94 @@
+Ao se falar em tecnologia, devemos observar alguns seguimentos que vem se destacando e ganhando espaço no mundo contemporâneo. Nesse sentido, podemos destacar a revolução do transumanismo. Tecnologia que poderá garantir aos seres humanos uma qualidade de vida melhor através de implantações de chip no corpo humano.
+
+A priori, a implantação dessa tecnologia, que se concentra em um chip, irá garantir ao ser humano um aperfeiçoamento em diversas áreas da vida, como por exemplo, na capacidade física, intelectual, psicológica e emocional. Dessa forma, melhorando expressivamente sua qualidade e prolongando seus anos de vida. Tal feito iria gerar uma grande revolução na história da humanidade.
+
+A posteriori, devemos nos atentar ao público limitado que terá acesso a esse tecnologia. Certamente, o chip e sua implantação terá um valor elevado, fora do alcance da maioria da população, o que irá suscitar uma potencialização na desigualdade social que já assola nossa sociedade nos dias atuais, fazendo com que o público de maior poder aquisitivo tenha mais poder sobre as demais parcelas da população.
+
+Com os dados supramencionados, infere-se, portanto, que a tecnologia é imprescindível para o desenvolvimento e qualidade humana, entretanto, a maioria delas são de alto custo financeiro, fazendo com que a população de classe baixa e média não tenha acesso a determinado tipos de serviços. Sob essa ótica, cabe ao Poder Público garantir que esse grupo de pessoas, com menor poder aquisitivo, tenha acesso a tais tecnologias. Dessa forma, todos, sem distinção, poderão usufruir das inovações e benefícios que a tecnologia proporciona ao mundo contemporâneo.
+
+Correções:
+
+Offset 174, length 13, Rule ID: HUNSPELL_RULE
+Message: Possível erro ortográfico
+Suggestion: trans-humanismo; transhumanista; transumano; trasmontanismo
+...entido, podemos destacar a revolução do transumanismo. Tecnologia que poderá garantir aos ser...
+                                           ^^^^^^^^^^^^^
+
+Offset 294, length 4, Rule ID: PT_BARBARISMS_REPLACE
+Message: ‘chip’ é um estrangeirismo. É preferível dizer “circuito integrado”
+Suggestion: circuito integrado
+... vida melhor através de implantações de chip no corpo humano.  A priori, a implantaç...
+                                           ^^^^
+
+Offset 319, length 6, Rule ID: BARBARISMS
+Message: Os estrangeirismos devem estar entre aspas ou ser italizados.
+Suggestion: ‘priori’; “priori”
+...mplantações de chip no corpo humano.  A priori, a implantação dessa tecnologia, que se...
+                                           ^^^^^^
+
+Offset 376, length 5, Rule ID: CONTRACOES2
+Message: Pode também dizer “num”.
+Suggestion: num
+...ação dessa tecnologia, que se concentra em um chip, irá garantir ao ser humano um ape...
+                                           ^^^^^
+
+Offset 382, length 4, Rule ID: PT_BARBARISMS_REPLACE
+Message: ‘chip’ é um estrangeirismo. É preferível dizer “circuito integrado”
+Suggestion: circuito integrado
+...essa tecnologia, que se concentra em um chip, irá garantir ao ser humano um aperfeiç...
+                                           ^^^^
+
+Offset 461, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...rfeiçoamento em diversas áreas da vida, como por exemplo, na capacidade física, intelectual, psi...
+                                           ^^^^^^^^^^^^^^^^
+
+Offset 563, length 19, Rule ID: POSSESSIVE_WITHOUT_ARTICLE
+Message: Será que quis dizer:
+Suggestion: expressivamente a sua
+...ca e emocional. Dessa forma, melhorando expressivamente sua qualidade e prolongando seus anos de vi...
+                                           ^^^^^^^^^^^^^^^^^^^
+
+Offset 595, length 16, Rule ID: POSSESSIVE_WITHOUT_ARTICLE
+Message: Será que quis dizer:
+Suggestion: prolongando os seus
+...horando expressivamente sua qualidade e prolongando seus anos de vida. Tal feito iria gerar uma ...
+                                           ^^^^^^^^^^^^^^^^
+
+Offset 698, length 10, Rule ID: BARBARISMS
+Message: Os estrangeirismos devem estar entre aspas ou ser italizados.
+Suggestion: ‘posteriori’; “posteriori”
+...revolução na história da humanidade.  A posteriori, devemos nos atentar ao público limitad...
+                                           ^^^^^^^^^^
+
+Offset 768, length 15, Rule ID: GENERAL_GENDER_AGREEMENT_ERRORS
+Message: Possível erro de concordância de género.
+Suggestion: essa tecnologia; esse, tecnologia
+...r ao público limitado que terá acesso a esse tecnologia. Certamente, o chip e sua implantação t...
+                                           ^^^^^^^^^^^^^^^
+
+Offset 799, length 4, Rule ID: PT_BARBARISMS_REPLACE
+Message: ‘chip’ é um estrangeirismo. É preferível dizer “circuito integrado”
+Suggestion: circuito integrado
+...acesso a esse tecnologia. Certamente, o chip e sua implantação terá um valor elevado...
+                                           ^^^^
+
+Offset 804, length 5, Rule ID: POSSESSIVE_WITHOUT_ARTICLE
+Message: Será que quis dizer:
+Suggestion: e a sua
+...o a esse tecnologia. Certamente, o chip e sua implantação terá um valor elevado, fora...
+                                           ^^^^^
+
+Offset 955, length 12, Rule ID: POSSESSIVE_WITHOUT_ARTICLE
+Message: Será que quis dizer:
+Suggestion: assola a nossa
+...ialização na desigualdade social que já assola nossa sociedade nos dias atuais, fazendo com ...
+                                           ^^^^^^^^^^^^
+
+Offset 1374, length 8, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipos de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categorias de”
+Suggestion: APAGAR; categorias de
+... e média não tenha acesso a determinado tipos de serviços. Sob essa ótica, cabe ao Poder...
+                                           ^^^^^^^^
+

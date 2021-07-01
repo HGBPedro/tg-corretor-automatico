@@ -1,0 +1,76 @@
+A Constitui√ß√£o Federal de 1988, em seu artigo 5, √© clara ao determinar que, salvo nas hip√≥teses de pris√µes cautelares, ningu√©m ser√° preso at√© o tr√¢nsito em julgado da senten√ßa penal condenat√≥ria, ou seja, at√© que n√£o caibam mais recursos. Apesar da previs√£o legal, o Supremo Tribunal Federal (STF) fez um "malabarismo interpretativo" ao julgar leg√≠tima a pris√£o do r√©u em segunda inst√¢ncia.
+
+Nesse contexto, a Corte Suprema, quando julgou o tema, se afastou de sua fun√ß√£o prec√≠pua que √© aplicar a lei, tendo em vista que a compet√™ncia para elabor√°-las √© do Poder Legislativo. Sem d√∫vida, o STF, ao passo que ignorou a interpreta√ß√£o literal e l√≥gica da Constitui√ß√£o, se comportou como um rei absolutista que cria e aplica as normas ao seu pr√≥prio alvedrio.
+
+Ademais, erroneamente, argumenta-se que a pris√£o ap√≥s segunda inst√¢ncia √© necess√°ria, uma vez que o julgamento completo de uma a√ß√£o penal, com o esgotamento de todos os recursos, √© muito demorado e, assim, o r√©u permanece em liberdade durante todo o processo, de modo a fortificar o sentimento de impunidade perante a sociedade. Contudo, √© importante dizer que n√£o √© razo√°vel que algu√©m seja antecipadamente punido por pura inefici√™ncia do Poder Judici√°rio em dar celeridade √†s suas demandas. Ora, se h√° morosidade, isso deve ser solucionado de uma forma que n√£o aniquile o princ√≠pio da presun√ß√£o de inoc√™ncia!
+
+Portanto, tal medida validada pelo STF √© um atentado contra a ordem constitucional. Por conta disso, para sanar tal controv√©rsia, dever√° o Poder Legislativo aprovar lei que detalhe claramente a veda√ß√£o √† pris√£o em segunda inst√¢ncia, sob pena de viola√ß√£o a um caro direito fundamental.
+
+CorreÁıes:
+
+Offset 32, length 6, Rule ID: POSSESSIVE_WITHOUT_ARTICLE
+Message: Ser· que quis dizer:
+Suggestion: no seu
+A ConstituiÁ„o Federal de 1988, em seu artigo 5, È clara ao determinar que, sa...
+                                ^^^^^^
+
+Offset 293, length 3, Rule ID: HUNSPELL_RULE
+Message: PossÌvel erro ortogr·fico
+Suggestion: STA; STAFF
+...is„o legal, o Supremo Tribunal Federal (STF) fez um "malabarismo interpretativo" ao...
+                                           ^^^
+
+Offset 305, length 1, Rule ID: SMART_QUOTES
+Message: Utilize aqui aspas inteligentes: ììî.
+Suggestion: ì
+...o Supremo Tribunal Federal (STF) fez um "malabarismo interpretativo" ao julgar le...
+                                           ^
+
+Offset 332, length 1, Rule ID: SMART_QUOTES
+Message: Utilize uma aspas de fecho aqui: ìîî.
+Suggestion: î
+...(STF) fez um "malabarismo interpretativo" ao julgar legÌtima a pris„o do rÈu em s...
+                                           ^
+
+Offset 458, length 6, Rule ID: POSSESSIVE_WITHOUT_ARTICLE
+Message: Ser· que quis dizer:
+Suggestion: da sua
+...prema, quando julgou o tema, se afastou de sua funÁ„o precÌpua que È aplicar a lei, te...
+                                           ^^^^^^
+
+Offset 472, length 8, Rule ID: HUNSPELL_RULE
+Message: PossÌvel erro ortogr·fico
+Suggestion: precÌpuo; recÌproca
+...julgou o tema, se afastou de sua funÁ„o precÌpua que È aplicar a lei, tendo em vista que...
+                                           ^^^^^^^^
+
+Offset 590, length 3, Rule ID: HUNSPELL_RULE
+Message: PossÌvel erro ortogr·fico
+Suggestion: STA; STAFF
+...s È do Poder Legislativo. Sem d˙vida, o STF, ao passo que ignorou a interpretaÁ„o l...
+                                           ^^^
+
+Offset 598, length 5, Rule ID: PORTUGUESE_WRONG_WORD_IN_CONTEXT
+Message: Considere ìpaÁoî, i.e. tipo de pal·cio real ou episcocal, em vez de ëpassoí, i.e. movimento dos pÈs a andar; verbo passar?
+Suggestion: paÁo
+...oder Legislativo. Sem d˙vida, o STF, ao passo que ignorou a interpretaÁ„o literal e l...
+                                           ^^^^^
+
+Offset 746, length 8, Rule ID: HUNSPELL_RULE
+Message: PossÌvel erro ortogr·fico
+Suggestion: alvenaria
+... cria e aplica as normas ao seu prÛprio alvedrio.  Ademais, erroneamente, argumenta-se q...
+                                           ^^^^^^^^
+
+Offset 1404, length 3, Rule ID: HUNSPELL_RULE
+Message: PossÌvel erro ortogr·fico
+Suggestion: STA; STAFF
+...ia!  Portanto, tal medida validada pelo STF È um atentado contra a ordem constituci...
+                                           ^^^
+
+Offset 1550, length 10, Rule ID: PT_WEASELWORD_REPLACE
+Message: ëclaramenteí È uma express„o ambÌgua e evasiva. Reconsidere o seu uso, de acordo com o objetivo do seu texto.
+Suggestion: A premissa È inegavelmente verdadeira?
+...der Legislativo aprovar lei que detalhe claramente a vedaÁ„o ‡ pris„o em segunda inst‚ncia...
+                                           ^^^^^^^^^^
+
